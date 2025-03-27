@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="Kb_Se3iPa!#}s[$q@.$Y" x="20" y="20"></block><block type="device_forever" id="6zbA![z$r!Th:*M#en|i" x="225" y="20"><statement name="HANDLER"><block type="device_show_leds" id="#o4B^JHJqo9S=PO[Qd8D"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="QeBBxxZILPD8JXdT9sj="><value name="pause"><shadow type="timePicker" id="+fE-gaZHW+@)F#MP!2nm"><field name="ms">2000</field></shadow></value><next><block type="basic_show_icon" id="+|9y=i9npm]`(7),yM`L"><field name="i">IconNames.SmallDiamond</field><next><block type="device_pause" id="^bj#Q/]Sz1?93UYLy7*e"><value name="pause"><shadow type="timePicker" id="nj,ny_PwK#fO`9`=#?q:"><field name="ms">4000</field></shadow></value><next><block type="basic_show_icon" id="}N6.u}mJ7{,ZEEh6-2Fy"><field name="i">IconNames.Diamond</field><next><block type="device_pause" id="7f{9kn%Zt)XH(GsrTL)7"><value name="pause"><shadow type="timePicker" id="g/lcN+.dSySutGoN4xK-"><field name="ms">2000</field></shadow></value><next><block type="basic_show_icon" id="l[N@Xu%:{w.zv^$E+Z^B"><field name="i">IconNames.SmallDiamond</field><next><block type="device_pause" id="!TRqBd?:MKvY);Z8w8IP"><value name="pause"><shadow type="timePicker" id="}gPt1z^;HT#gr5q6=X2K"><field name="ms">4000</field></shadow></value><next><block type="device_show_leds" id="TwXj(6D^?~g$0#DQ6{%a"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="bHc{lv+cwp(Pl_y(kP1k"><value name="pause"><shadow type="timePicker" id="SiD!KNSnrX7=gOuX*y)S"><field name="ms">2000</field></shadow></value><next><block type="device_clear_display" id="_S|lC?2qvNPtvk~Vh(.g"><next><block type="device_pause" id="dvr~OM;N;}n|ZMXUF^|j"><value name="pause"><shadow type="timePicker" id="U^2a7*l-blai=:@2[Cj*"><field name="ms">2000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
